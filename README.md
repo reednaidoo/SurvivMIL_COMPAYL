@@ -1,5 +1,7 @@
 # SurvivMIL: A Multimodal, Multiple Instance Learning Pipeline for Survival Outcome of Neuroblastoma Patients 
 
+![GitHub Downloads](https://img.shields.io/github/downloads/reednaidoo/SurvivMIL_COMPAYL/total)
+
 A pytorch lightning implementation of a multimodal, multiple instance learning model described in the paper [SurvivMIL: A multimodal, Multiple Instance Learning pipeline for Survival Outcome of Neuroblastoma Patients](https://openreview.net/pdf?id=7o2RyN0wNf) (MICCAI COMPAYL 2024, Accepted).
 
 ![SurvivMIL Pipeline](misc/compayl_pipeline.png)
